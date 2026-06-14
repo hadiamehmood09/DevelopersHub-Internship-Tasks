@@ -26,3 +26,13 @@ For this task, I generated a dataset of loan applicants containing features like
 * I plotted a count chart which showed that graduate applicants generally get more loan approvals.
 * Credit history is the most important factor because applicants with a good past score get high approval rates.
 * The machine learning model trained successfully on the data and gave a very good accuracy score for predicting loan risks.
+
+## Task 3: Predicting Insurance Claims Amount
+
+### What I did:
+In this project, I generated a medical insurance dataset with factors like Age, BMI, and Smoker status. I used a Linear Regression model to predict the final insurance claim amount for customers.
+
+### My Observations:
+* The scatter plot clearly shows that smokers have much higher insurance claim amounts compared to non-smokers.
+* Higher BMI and older age also gradually increase the predicted claim money.
+* The regression model successfully calculated the coefficients and performed accurate continuous value predictions.
